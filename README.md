@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**ItzOffline/ItzOffline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for crafting elegant solutions using **Java**, **Python**, and **Web Technologies**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Tech Stack:
+
+*   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="30" height="30" /> **Java:** Building robust and enterprise-level applications.
+*   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30" /> **Python:** Developing efficient scripts, data analysis tools, and web backends.
+*   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Development" width="60" height="30" /> **Web Development:** Creating dynamic and responsive user experiences across the full stack.
+
+---
+
+### ✨ What I Do:
+
+*   🚀 Developing and maintaining **backend services**.
+*   💡 Solving complex problems with **clean code**.
+*   🌐 Bringing ideas to life on the **web**.
+
+---
+
+### Let's Connect!
+Feel free to reach out!
+
+(Java Projects I Do Are Related To MINECRAFT Video Game)
